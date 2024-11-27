@@ -1,6 +1,6 @@
 a {
     text-decoration: underline;
-    color:inherit;
+    color: inherit;
     transition-duration: .3s;
 }
 a:hover {
